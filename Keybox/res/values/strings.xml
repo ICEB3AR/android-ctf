@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="app_name">Keybox</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="fab_transformation_scrim_behavior">android.support.design.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">android.support.design.transformation.FabTransformationSheetBehavior</string>
+    <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="lorem_ipsum">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut eros quis nibh faucibus scelerisque. Aliquam bibendum congue elementum. Donec finibus pellentesque tellus et rhoncus. Aenean posuere risus sit amet feugiat vulputate. Duis vel mattis augue. Nunc eu justo quam. Sed euismod rhoncus nibh vitae consectetur. Nam augue nibh, dictum vitae dui vitae, luctus fermentum risus. Donec maximus dolor risus. Suspendisse vitae mi non sapien tincidunt blandit. Nullam bibendum, ipsum at congue mattis, turpis elit dapibus ex, non vestibulum mi lorem ac nunc. Nunc vel faucibus justo. Quisque at gravida massa. Ut sodales at justo ut efficitur. Sed at odio dictum, sollicitudin lacus rutrum, placerat turpis. Nunc pharetra felis vel odio mollis rhoncus.
+
+ Mauris dignissim eget erat sit amet iaculis. Mauris in tellus non dolor mollis commodo. In sit amet pretium erat. In suscipit porttitor risus. Nunc accumsan purus in semper molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis consequat a nisl ac ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent sed fermentum nulla. Donec ornare efficitur venenatis. Curabitur pharetra eros nec nisl dictum bibendum. Aliquam odio lectus, condimentum faucibus pharetra et, tempor eget nunc.
+
+Integer posuere mauris mattis libero ullamcorper pharetra. Donec in malesuada mi. Curabitur nec efficitur tortor. Nunc ipsum justo, luctus et ante eget, efficitur semper nulla. Maecenas convallis, est in placerat cursus, nibh velit consequat metus, tristique vehicula dui est vitae tortor. Nullam sagittis mattis massa id semper. Sed interdum lacus congue elementum eleifend. Nunc ultricies sodales elit vitae ultricies. Donec accumsan sit amet justo a tincidunt. Donec tempus, ex sit amet accumsan blandit, quam nisl rutrum dolor, et tristique neque massa vitae massa. Maecenas bibendum mauris ut odio mollis feugiat. Sed non odio fermentum, rhoncus odio in, rutrum mi. Ut sit amet sem ornare, sagittis nisl nec, rhoncus lectus.
+
+Nunc at arcu tortor. Aliquam vitae semper odio. Nulla facilisi. Donec mattis, magna et sollicitudin aliquet, libero nisl facilisis nibh, id varius eros elit non erat. Nunc bibendum urna sed tempor iaculis. Etiam eget erat tellus. Vestibulum massa libero, laoreet vel sollicitudin in, faucibus vitae sem. Duis condimentum nisl turpis, ut faucibus lacus rutrum eleifend. Nam nunc turpis, dapibus a ullamcorper id, maximus nec mauris. Proin at justo vitae lacus fringilla scelerisque. Integer fringilla felis quis rhoncus gravida. Fusce fringilla enim id tellus cursus, eu consequat dolor suscipit."</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_flag">Flag</string>
+    <string name="title_activity_key0_hint">KEY Zero Hints</string>
+    <string name="title_activity_key1_hint">KEY One Hints</string>
+    <string name="title_activity_key2_hint">KEY Two Hints</string>
+    <string name="title_activity_key3_hint">KEY Three Hints</string>
+    <string name="title_activity_key4_hint">KEY Four Hints</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="30.0sp" android:textStyle="bold" android:id="@id/key1hinttitle" android:layout_width="411.0dip" android:layout_height="53.0dip" android:text="Trend Micro CTF - Keybox" android:textAlignment="textStart" />
+    <EditText android:gravity="start|center|top" android:id="@id/editText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:ems="10" android:inputType="textMultiLine" />
+</android.support.constraint.ConstraintLayout>
